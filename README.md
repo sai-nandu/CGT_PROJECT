@@ -1,5 +1,5 @@
-# **Interactive Playground for PageRank Algorithm**
-### Using Random Surfer and Power Iteration Methods
+# **Interactive Playground for PageRank Algorithm, Using Random Surfer Model and Power Iteration Method**
+
 
 ---
 
